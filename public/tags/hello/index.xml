@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>函庭</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content on 函庭</description>
+    <title>Hello on 函庭</title>
+    <link>http://localhost:1313/blog/tags/hello/</link>
+    <description>Recent content in Hello on 函庭</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 11 Feb 2025 15:46:49 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/hello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
       <link>http://localhost:1313/blog/article/hello-hugo/</link>

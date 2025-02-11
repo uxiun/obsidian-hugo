@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://uxiun.github.pages.io/blog/'
+languageCode = 'ja'
+title = '函庭'
 theme = 'ananke'
+[taxonomies]
+tag = "tags"

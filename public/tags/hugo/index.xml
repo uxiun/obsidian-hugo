@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>函庭</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content on 函庭</description>
+    <title>Hugo on 函庭</title>
+    <link>http://localhost:1313/blog/tags/hugo/</link>
+    <description>Recent content in Hugo on 函庭</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 11 Feb 2025 15:46:49 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Hugo</title>
       <link>http://localhost:1313/blog/article/hello-hugo/</link>
       <pubDate>Tue, 11 Feb 2025 15:46:49 +0900</pubDate>
       <guid>http://localhost:1313/blog/article/hello-hugo/</guid>
       <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello, Hugo&lt;/h1&gt;&#xA;&lt;p&gt;Hugoおためし記事&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/blog/article/hello-world/</link>
-      <pubDate>Tue, 11 Feb 2025 15:46:37 +0900</pubDate>
-      <guid>http://localhost:1313/blog/article/hello-world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, world!&lt;/h1&gt;&#xA;&lt;p&gt;Hugoからこんにちは&#xA;これ見えてます？&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
